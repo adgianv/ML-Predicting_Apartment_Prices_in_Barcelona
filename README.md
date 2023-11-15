@@ -10,4 +10,6 @@
   - Linear Regression
   - Lasso Regression
   - Ridge Regression
+- Cross Validation
 - Conclusions
+- Annex
