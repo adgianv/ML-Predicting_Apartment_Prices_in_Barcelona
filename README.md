@@ -1,7 +1,7 @@
 # ML-Predicting_Apartment_Prices_in_Barcelona
 
 ### Machine Learning project for predicting apartment prices in Barcelona
-
+**Python, Pandas, Numpy, Matplotlib, Scikit-Learn**
 #### Structure:
 - introduction
 - EDA
