@@ -5,7 +5,7 @@
 #### Structure:
 - introduction
 - EDA
-- Preprocessing (imputing using KNN)
+- Preprocessing
 - Model Training (Regression)
   - Linear Regression
   - Lasso Regression
